@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://www.jsfingineering.com/sitemap.xml
